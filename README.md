@@ -163,7 +163,7 @@ $ sh launch_tests.sh
 - Fungsi-fungsi utama
 - Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
 
-
+![alt_text](https://drive.google.com/open?id=15sptLqDsXBzytIz_1iyIbY41ykn5xDfn)
 ## Pembahasan
 
 - Pendapat anda tentang aplikasi web ini
