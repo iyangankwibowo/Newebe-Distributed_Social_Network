@@ -1,6 +1,4 @@
-# Newebe-Distributed_Social_Network
-
-# Newebe Virtual Website
+# Newebe: Distributed Social Network
 
 ## Sekilas Tentang
 
@@ -22,18 +20,17 @@ Langkah instalasi pada *remote server* untuk Debian atau Ubuntu users dari kompu
 
 3. Get dan install fabfile.py
 
-`wget https://raw.github.com/gelnior/newebe/master/deploy/fabfile.py`
+`$ wget https://raw.github.com/gelnior/newebe/master/deploy/fabfile.py`
 
 4. Menjalankan fabric.api pada username@hostname
 
 `$ fab setup -H myrootuser@myhosturlorip`
 
-Newebe akan berjalan pada [text](https://localhost:8000/)
-
+Newebe akan berjalan pada https://localhost:8000/
 Kemudian lakukan Update pada remote server
 
-`sudo pip install git+git://github.com/gelnior/newebe.git
-sudo supervisorctl restart newebe`
+`$ sudo pip install git+git://github.com/gelnior/newebe.git
+$ sudo supervisorctl restart newebe `
 
 
 ## Konfigurasi (opsional)
