@@ -159,7 +159,7 @@ $ sh launch_tests.sh
 ```
 
 - Tampilan aplikasi web
-![alt text])(https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi05urBje3gAhU48HMBHWPoCv8QjRx6BAgBEAU&url=https%3A%2F%2Fgelnior.wordpress.com%2F2012%2F03%2F17%2Fthemes-for-newebe%2F&psig=AOvVaw06evf1BabSaykZsEbxHqrK&ust=1551947609616810)
+![alt text])(https://gelnior.files.wordpress.com/2012/03/newebe_theme_01.jpg)
 - Fungsi-fungsi utama
 - Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
 
