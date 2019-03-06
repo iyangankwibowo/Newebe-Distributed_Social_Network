@@ -4,7 +4,7 @@
 
 Newebe merupakan aplikasi web bertipe *distributed social network*. Perbedaan Newebe dengan jejaring sosial yang lain adalah Newebe menawarkan solusi yang biasa dihadapkan oleh jejaring sosial pada umumnya, yaitu kita menukar data-data privasi kita sebagai alat untuk berhubungan dengan orang lain. Untuk itu, Newebe menawarkan alat untuk berelasi dengan orang lain yang dapat dihost sendiri oleh pengguna dan proses hubungan dilakukan secara langsung dengan pengguna lain
 
-![alt text](https://camo.githubusercontent.com/56872c8d40995c85182c65122987aee1ed71d96f/687474703a2f2f67656c6e696f722e66696c65732e776f726470726573732e636f6d2f323031302f31322f6e6574776f726b2e676966)
+![alt text])(https://camo.githubusercontent.com/56872c8d40995c85182c65122987aee1ed71d96f/687474703a2f2f67656c6e696f722e66696c65732e776f726470726573732e636f6d2f323031302f31322f6e6574776f726b2e676966)
 
 ## Instalasi
 
@@ -159,6 +159,7 @@ $ sh launch_tests.sh
 ```
 
 - Tampilan aplikasi web
+![alt text])(https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi05urBje3gAhU48HMBHWPoCv8QjRx6BAgBEAU&url=https%3A%2F%2Fgelnior.wordpress.com%2F2012%2F03%2F17%2Fthemes-for-newebe%2F&psig=AOvVaw06evf1BabSaykZsEbxHqrK&ust=1551947609616810)
 - Fungsi-fungsi utama
 - Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
 
@@ -167,9 +168,12 @@ $ sh launch_tests.sh
 
 - Pendapat anda tentang aplikasi web ini
 	- pros:
+1. Mudah digunakan
+2. Tampilan sederhana
 	- cons:
-- Bandingkan dengan aplikasi web kelompok lain yang sejenis
-
+1. Terlalu banyak dependencies
+2. Use an embedded database, bukan Couchdb
 
 ## Referensi
-
+https://github.com/gelnior/newebe
+https://github.com/gelnior/newebe/wiki/Hardware
