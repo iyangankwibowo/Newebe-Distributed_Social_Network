@@ -2,9 +2,7 @@
 
 ## Sekilas Tentang
 
-Newebe merupakan aplikasi web bertipe *distributed social network*.
-
-Newebe adalah distributed social network. Perbedaan Newebe dengan jejaring sosial yang lain adalah Newebe menawarkan solusi yang biasa dihadapkan oleh jejaring sosial pada umumnya, yaitu kita menukar data-data privasi kita sebagai alat untuk berhubungan dengan orang lain. Untuk itu, Newebe menawarkan alat untuk berelasi dengan orang lain yang dapat 
+Newebe merupakan aplikasi web bertipe *distributed social network*. Perbedaan Newebe dengan jejaring sosial yang lain adalah Newebe menawarkan solusi yang biasa dihadapkan oleh jejaring sosial pada umumnya, yaitu kita menukar data-data privasi kita sebagai alat untuk berhubungan dengan orang lain. Untuk itu, Newebe menawarkan alat untuk berelasi dengan orang lain yang dapat dihost sendiri oleh pengguna dan proses hubungan dilakukan secara langsung dengan pengguna lain
 
 ![alt text](https://camo.githubusercontent.com/56872c8d40995c85182c65122987aee1ed71d96f/687474703a2f2f67656c6e696f722e66696c65732e776f726470726573732e636f6d2f323031302f31322f6e6574776f726b2e676966)
 
@@ -38,7 +36,9 @@ $ sudo pip install git+git://github.com/gelnior/newebe.git
 $ sudo supervisorctl restart newebe 
 ```
 
-## Konfigurasi (opsional)
+## Cara Pemakaian
+
+**Sisi Server**
 
 Langkah penggunaan Newebe:
 
@@ -118,8 +118,8 @@ $ sudo pip install importlib
 $ sudo supervisorctl start newebe
 ```
 
+**Sisi Client**
 
-## Cara Pemakaian
 Untuk menjalankan Newebe di sisi client, install node.js terlebih dahulu
 ```
 $ git clone https://github.com/ry/node.git
@@ -157,6 +157,7 @@ Jalankan tests untuk setiap module. Untuk melakukan tes, jalankan newebe kedua p
 ```
 $ sh launch_tests.sh
 ```
+
 - Tampilan aplikasi web
 - Fungsi-fungsi utama
 - Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
